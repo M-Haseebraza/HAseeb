@@ -1,0 +1,144 @@
+
+#text1{
+    position: relative;
+    font-weight: bolder;
+    font-size:xx-large ;
+}
+#text2{
+    position: absolute;
+    font-size: x-small;
+    border: 1px solid yellow;
+    background-color:gray;
+    margin-top: 4px;
+    color: white;
+}
+#text3{
+    color: gray;
+}
+#main{
+    box-shadow: 4px 5px 6px black ;
+    position: relative;
+    margin: 0;
+    width: 60vw;
+    display: inline-block;
+}
+.nev{ 
+    display: inline-block;
+    padding: 20px;
+    font: menu;
+    color: white;
+}
+.nev:hover{
+    background-color: lightgray;
+}
+.d2:hover{
+    background-color: rgb(87, 87, 87) ;
+}
+nav{
+    background-color: black;
+}
+#pic{
+    position: relative;
+    width: 60vw;
+    height: 400px;
+    
+}   
+#textp{
+    position: absolute;
+    right: 0;
+    left: 43px;
+    bottom: 0;
+    top: 168px;
+    font-size: xx-large;
+    color:whitesmoke;
+    font-family: -webkit-pictograph;
+    font-weight: bolder;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    margin-top: 21px;
+    border-radius:5px ;
+}
+.d1{
+    position: relative;
+    display: inline-block;
+    width: 205.4px;
+    height: 210px;
+    background-color: rgb(87, 87, 87);
+    margin: -2px;
+    color:white;
+    top: -2px;
+}
+.d2{
+    position: relative;
+    display: inline-block;
+    width: 397px;
+    height: 100px;
+    margin-top: 10px;
+}
+.box{
+    width: 80px;
+    height: 80px;
+    border: black 2px solid;
+    border-radius: 26px;
+}
+.text{
+    position: absolute;
+    color:white;
+}
+h3,h1{
+    color:black;
+}
+b{
+    color: black;
+}
+.d3{
+    display: inline-block;
+    width: 274px;
+    height: 400px;
+    margin: -2px;
+    color: white;
+}
+#black{
+    width: 16vw;
+}
+figure{
+    margin-left: 0px;
+}
+#infobox{
+    display: inline-block;
+    width: 260px;
+    height:230px ;
+    background-color: rgb(87, 87, 87);
+    color:black;
+    text-align: center;
+    font-size: large;
+    border-radius: 50px;
+
+}
+.butn{
+    width: max-content;
+    text-align: center;
+    background-color:black;
+    color: white;
+    border: 5px solid black;
+    margin-left: 20px;
+}
+#main2{
+    background-color: lightgrey;
+}
+a{
+    background: white;
+    color: black;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+.d5{
+    width: 20px;
+    height: 20px;   
+}

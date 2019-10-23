@@ -1,0 +1,107 @@
+#main{
+    display: grid;
+    grid-template-rows: 60px 400px 900px 150px ;
+    width: 60vw;
+}
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.d1{
+    background-color:black;
+    color: cornsilk;  
+}
+.nev{
+    padding: 20px;
+    display: inline-block;
+    font: menu;
+
+}
+.d2{
+    position: relative;
+    background-color:yellow ;
+}
+.d4{
+    background-color:black;
+}
+.d3{
+    background-color:lightgray;
+}
+#pic{
+    width: 820px;
+    height: 400px;}
+#textp{
+    position: absolute;
+    margin-top: 65px;
+    left: 8px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    margin-top: 21px;
+    border-radius:5px ;
+}
+.b1{
+    display: inline-block;
+    width: 205.4px;
+    height: 210px;
+    background-color: rgb(87, 87, 87);
+    margin: -2px;
+    color: grey;}
+ .b2{
+        position: relative;
+        display: inline-block;
+        width: 397px;
+        height: 100px;
+   margin-top: 10px;
+    }
+ .box{
+        width: 80px;
+        height: 80px;
+        border: black 2px solid;
+        border-radius: 26px;
+    }
+.text{
+        position: absolute;
+        color: grey;
+    }
+    h3{
+        color: white;
+    }
+    b{
+        color: black;
+    }
+    .b3{
+        display: inline-block;
+        width: 274px;
+        height: 400px;
+        margin: -2px;
+    }
+    #black{
+        width: 16vw;
+    }
+    figure{
+        margin-left: 0px;
+    }
+    #infobox{
+        display: inline-block;
+        width: 260px;
+        height:230px ;
+        background-color: rgb(87, 87, 87);
+        color: white;
+    
+    }
+    .butn{
+        width: max-content;
+        text-align: center;
+        background-color: rgb(87, 87, 87);
+        color: white;
+        border: 5px solid rgb(87, 87, 87);
+        margin-left: 20px;
+    }
